@@ -1,0 +1,17 @@
+main {
+  display: inline-block;
+  margin-top: 2%;
+  padding: 15px;
+  position: relative;
+}
+main .pokemon_img {
+  position: absolute;
+  left: 50%;
+  bottom: 50%;
+  transform: translate(-63%, 20%);
+  height: 18%;
+}
+main .pokedex {
+  width: 100%;
+  max-width: 425px;
+}/*# sourceMappingURL=pokedex.css.map */
